@@ -1,5 +1,6 @@
 # Vector Embedding
 Vector embedding is a technique used to represent words, phrases, or entire documents as vectors in a continuous vector space. This representation allows for the capture of semantic relationships between different pieces of text, enabling various natural language processing (NLP) tasks such as text classification, clustering, and recommendation systems.
+
 ### Example
 similar words have similar vector representations. For instance, the words "king" and "queen" would have vectors that are close to each other in the vector space, reflecting their semantic similarity.
 
